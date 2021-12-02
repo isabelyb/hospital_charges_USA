@@ -1,12 +1,21 @@
 
 # Hospital Charges in America
 
-## Undestanding the Business
+This is a data-analysis exercise using Python with Bokeh in a Jupyter Notebook.
 
+You can run entire notebook in [Colab]() or in  [Binder]().
+
+## Undestanding the Business
 
 ### Medicare Overview
 
+Medicare is a U.S. federal government health insurance program that subsidizes healthcare services. The plan covers people age 65 or older, younger people who meet specific eligibility criteria, and individuals with certain diseases.
+
 ### Data Source
+
+This dataset contains the details of disease and the hospitals that treat them. It also has details about how much would it cost. Download from [Kaggle](https://www.kaggle.com/dhirajnirne/hospital-charges-in-america)
+
+For more data related to Medicare : [Research Data Assistance Center](https://resdac.org/)
 
 ### Glossary
 
@@ -23,7 +32,7 @@
 * **Total Discharges:** The number of discharges billed by the provider for inpatient hospital services.
 
 
-## Some questions about the data
+## Some questions about the the business
 
 1. Which are the most expensive states and the cheapest ones?
 2. Cheapest Hospitals are in the same state?
