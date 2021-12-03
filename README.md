@@ -83,6 +83,7 @@ To answer that question is necesary to clarify:
 
 
 ![by_drg_min](assets/by_drg_min.png)
+
 💉 The most cheapest states by DRG are:
 * **Delaware**: 20 DRG
 * **Michigan**: 14 DRG
