@@ -3,7 +3,7 @@
 
 This is a data-analysis exercise using Python with Bokeh in a Jupyter Notebook.
 
-You can run entire notebook in [Colab]() or in  [Binder]().
+You can run entire notebook in [Colab]() or in  [Binder](https://mybinder.org/v2/gh/isabelyb/hospital_charges_USA/HEAD).
 
 ## Undestanding the Business
 
