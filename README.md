@@ -40,7 +40,7 @@ To answer that question is necesary to clarify:
 
 1.1. By **Avg Total Payments [$]**
 
-![bar_plot](assets/by_state.png)
+![by_state](assets/by_state.png)
 
 💰 According to **Average Total Payments**  the three most expensive states are:
 
@@ -56,16 +56,19 @@ To answer that question is necesary to clarify:
 
 1.2. By **Discharges** (attended patient)
 
-🤕 The three most expensive states are:
-1. **Alaska** with $550.
-2. **Hawaii** with $503.
-3. **Wyoming** with $443.  
+![by_patient](assets/by_patient.png)
 
+🤕 The three most expensive states are:
+
+1. **Alaska** with $550.76
+2. **Hawaii** with $503.78
+3. **Wyoming** with $446.09  
 
 🤕 The three most cheapest states are:
-1. **Delaware** with $215.
-2. **Kentucky** with $226.
-3. **Tennessee** with $227. 
+
+1. **Delaware** with $215.84
+2. **Kentucky** with $226.93
+3. **Tennessee** with $227.77
 
 1.3. By  **DRG** 
 
