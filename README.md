@@ -72,6 +72,8 @@ To answer that question is necesary to clarify:
 
 1.3. By  **DRG** 
 
+![by_drg_max](assets/by_drg_max.png)
+
 💉 The most expensive states by DRG are:
 * **Alaska**: 42 DRG
 * **Hawaii**: 21 DRG
@@ -79,6 +81,8 @@ To answer that question is necesary to clarify:
 * **Wyoming**: 8 DRG
 * **West Virginia**: 7 DRG
 
+
+![by_drg_min](assets/by_drg_min.png)
 💉 The most cheapest states by DRG are:
 * **Delaware**: 20 DRG
 * **Michigan**: 14 DRG
