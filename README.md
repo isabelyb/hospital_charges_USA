@@ -93,10 +93,17 @@ To answer that question is necesary to clarify:
 
 2. Cheapest Hospitals are in the same state?
 
+Not aren't. There are in different states.
 
+![cheapest hospitals](assets/cheapest_hospitals.jpg)
 
 3. Expensive hospitals share some special characteristic?
 
+As a hypotesis, the mosts expensive hospitals share two chareacteristics:
+1. Expensive DRG 
+2. Expensive states
+
+![expensive_hospitals](assets/expensive_hospitals.jpg)
 
 4. Wich is the DRG most expensive and the cheapest one?
 5. Wich is the percentage received for hospitals according to their Average covered charges?
