@@ -40,7 +40,7 @@ To answer that question is necesary to clarify:
 
 1.1. By **Avg Total Payments [$]**
 
-[bar_plot](assets/by_state.png)
+![bar_plot](assets/by_state.png)
 
 💰 According to **Average Total Payments**  the three most expensive states are:
 
