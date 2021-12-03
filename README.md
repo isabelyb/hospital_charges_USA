@@ -100,7 +100,11 @@ Not aren't. There are in different states.
 3. Expensive hospitals share some special characteristic?
 
 As a hypotesis, the mosts expensive hospitals share two chareacteristics:
-1. Expensive DRG 
+1. Expensive Infections DRG like 
+
+  * RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT 96+ HOURS
+  * SEPTICEMIA OR SEVERE SEPSIS W MV 96+ HOURS
+  * INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC
 2. Expensive states
 
 ![expensive_hospitals](assets/expensive_hospitals.jpg)
