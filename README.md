@@ -3,7 +3,7 @@
 
 This is a data-analysis exercise using Python with Bokeh in a Jupyter Notebook.
 
-You can run entire notebook in [Colab](https://colab.research.google.com/github/isabelyb/hospital_charges_USA/blob/main/charges_hospital_USA.ipynb#scrollTo=7ty5AU_mGe2m) or in  [Binder](https://hub.gke2.mybinder.org/user/isabelyb-hospital_charges_usa-4aliq7po/lab/tree/charges_hospital_USA.ipynb).
+You can run entire notebook in [Colab](https://colab.research.google.com/github/isabelyb/hospital_charges_USA/blob/main/charges_hospital_USA.ipynb#scrollTo=7ty5AU_mGe2m) or in  [Binder](https://hub.gke2.mybinder.org/user/isabelyb-hospital_charges_usa-1ck9vwuy/lab/tree/charges_hospital_USA.ipynb).
 
 ## Undestanding the Business
 
