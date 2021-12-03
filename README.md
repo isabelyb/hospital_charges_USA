@@ -90,15 +90,6 @@ To answer that question is necesary to clarify:
 * **Maine**: 8 DRG
 * **California**: 6 DRG
 
-
-
-
-
-
-
-
-
-
 2. Cheapest Hospitals are in the same state?
 
 
