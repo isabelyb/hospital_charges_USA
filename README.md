@@ -3,7 +3,7 @@
 
 This is a data-analysis exercise using Python with Bokeh in a Jupyter Notebook.
 
-You can run entire notebook in [Colab]() or in  [Binder](https://mybinder.org/v2/gh/isabelyb/hospital_charges_USA/HEAD).
+You can run entire notebook in [Colab](https://colab.research.google.com/drive/19I5HKDFvsKKVCRSY-l5jXGj7REDBAHSt#scrollTo=XqrUCHsKDGru) or in  [Binder](https://mybinder.org/v2/gh/isabelyb/hospital_charges_USA/HEAD).
 
 ## Undestanding the Business
 
@@ -35,6 +35,19 @@ For more data related to Medicare : [Research Data Assistance Center](https://re
 ## Some questions about the the business
 
 1. Which are the most expensive states and the cheapest ones?
+
+🔍 According to **Average Total Payments**  the three most expensive states✳️ are:
+1. **Alaska** with $11190.
+2. **Hawaii** with $10148.
+3. **California** with $9378.  
+
+✳️ **Washington, D.C.** is not an state, however is cosidered an special distric because is the capital city of the United States.
+
+🔍 According to **Average Total Payments**  the three most cheapest states are:
+1. **Alabama** with $5876.
+2. **West Virginia** with $6102.
+3. **Arkansas** with $6151.  
+
 2. Cheapest Hospitals are in the same state?
 3. Expensive hospitals share some special characteristic?
 4. Wich is the DRG most expensive and the cheapest one?
